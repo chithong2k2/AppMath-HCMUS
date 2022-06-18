@@ -154,7 +154,7 @@ if __name__ == '__main__':
 # Hình ảnh kết quả
 <div class="name" style="margin-top: 100px;">
     <p style="font-size: 30px;margin-left: 120px;margin-top: -70px; float: left">Ảnh gốc</p>
-    <div class="hihi" style="postion: relative;">
+    <div class="hihi" style="position: relative;">
         <p style="font-size: 30px;margin-top: -70px;margin-left:380px; float:left;">K=3</p>
         <p style="font-size: 30px;margin-top: -70px;margin-left:540px; float:left;">K=5</p>
         <p style="font-size: 30px;margin-top: -70px;margin-left:700px; float:left;">K=7</p>
