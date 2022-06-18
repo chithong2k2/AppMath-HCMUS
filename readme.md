@@ -152,5 +152,30 @@ if __name__ == '__main__':
 - Sử dụng `plt.show` và `plt.imshow()` để hiển thị ảnh
 - Lưu ảnh bằng `plt.imsave`
 # Hình ảnh kết quả
-<img src="jisoo.jpg" alt="jisoo" width="300"/> <img src="js1.jpg" alt="js1" width="150"/>
+<div class="name" style="margin-top: 100px;">
+    <p style="font-size: 30px;margin-left: 120px;margin-top: -70px; float: left">Ảnh gốc</p>
+    <div class="hihi" style="postion: relative;">
+        <p style="font-size: 30px;margin-top: -70px;margin-left:380px; float:left;">K=3</p>
+        <p style="font-size: 30px;margin-top: -70px;margin-left:540px; float:left;">K=5</p>
+        <p style="font-size: 30px;margin-top: -70px;margin-left:700px; float:left;">K=7</p>
+        <p style="font-size: 30px;margin-top: 100px;margin-left:950px; float:left;">Random</p>
+        <p style="font-size: 30px;margin-top: 200px;margin-left:950px; float:left;">In_pixels</p>
+    </div>
+    <div class="ccc">
+        <div class="h1" style="position: absolute;">
+        <img style="float: left;" src="https://i.imgur.com/EYzQgRR.jpeg" alt="jisoo" width="325"/> 
+            <img align="top"  src="https://i.imgur.com/Ab70eFf.jpg" style="margin: 0px 0px 30px 10px;" alt="js1" width="150"/>
+            <img align="top" src="https://i.imgur.com/iliTstD.jpg" style="margin: 0px 0px 30px 10px;" alt="js1" width="150"/>
+            <img align="top" src="https://i.imgur.com/vW4our0.jpg" style="margin: 0px 0px 30px 10px; display: inline-block;" alt="js1" width="150"/> 
+            <div class="cc">
+                <img src="https://i.imgur.com/aN1ZTGy.jpg" alt="js4" style=" margin-left: 10px;" width="150"/>
+                <img  src="https://i.imgur.com/yNp8rrQ.jpg" alt="js5" style=" margin-left: 10px;" width="150"/>
+                <img  src="https://i.imgur.com/lsHGrps.jpg" alt="js6" style="margin-left: 10px;display: inline-block;" width="150"/>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
 
