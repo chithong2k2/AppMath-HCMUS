@@ -166,7 +166,7 @@ if __name__ == '__main__':
         <img style="float: left;" src="https://i.imgur.com/EYzQgRR.jpeg" alt="jisoo" width="325"/> 
             <img align="top"  src="https://i.imgur.com/Ab70eFf.jpg" style="margin: 0px 0px 30px 10px;" alt="js1" width="150"/>
             <img align="top" src="https://i.imgur.com/iliTstD.jpg" style="margin: 0px 0px 30px 10px;" alt="js1" width="150"/>
-            <img align="top" src="https://i.imgur.com/vW4our0.jpg" style="margin: 0px 0px 30px 10px; display: inline-block;" alt="js1" width="150"/> 
+            <img align="top" src="https://i.imgur.com/vW4our0.jpg" style="margin: 0px 0px 30px 10px; display: inline-block;" alt="js1" width="150"/>
             <div class="cc">
                 <img src="https://i.imgur.com/aN1ZTGy.jpg" alt="js4" style=" margin-left: 10px;" width="150"/>
                 <img  src="https://i.imgur.com/yNp8rrQ.jpg" alt="js5" style=" margin-left: 10px;" width="150"/>
